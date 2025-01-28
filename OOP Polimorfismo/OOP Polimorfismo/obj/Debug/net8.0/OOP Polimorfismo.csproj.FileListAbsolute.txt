@@ -1,0 +1,15 @@
+C:\Users\semig\Downloads\C# learning\OOP Polimorfismo\OOP Polimorfismo\bin\Debug\net8.0\OOP Polimorfismo.exe
+C:\Users\semig\Downloads\C# learning\OOP Polimorfismo\OOP Polimorfismo\bin\Debug\net8.0\OOP Polimorfismo.deps.json
+C:\Users\semig\Downloads\C# learning\OOP Polimorfismo\OOP Polimorfismo\bin\Debug\net8.0\OOP Polimorfismo.runtimeconfig.json
+C:\Users\semig\Downloads\C# learning\OOP Polimorfismo\OOP Polimorfismo\bin\Debug\net8.0\OOP Polimorfismo.dll
+C:\Users\semig\Downloads\C# learning\OOP Polimorfismo\OOP Polimorfismo\bin\Debug\net8.0\OOP Polimorfismo.pdb
+C:\Users\semig\Downloads\C# learning\OOP Polimorfismo\OOP Polimorfismo\obj\Debug\net8.0\OOP Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semig\Downloads\C# learning\OOP Polimorfismo\OOP Polimorfismo\obj\Debug\net8.0\OOP Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\semig\Downloads\C# learning\OOP Polimorfismo\OOP Polimorfismo\obj\Debug\net8.0\OOP Polimorfismo.AssemblyInfo.cs
+C:\Users\semig\Downloads\C# learning\OOP Polimorfismo\OOP Polimorfismo\obj\Debug\net8.0\OOP Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\semig\Downloads\C# learning\OOP Polimorfismo\OOP Polimorfismo\obj\Debug\net8.0\OOP Polimorfismo.sourcelink.json
+C:\Users\semig\Downloads\C# learning\OOP Polimorfismo\OOP Polimorfismo\obj\Debug\net8.0\OOP Polimorfismo.dll
+C:\Users\semig\Downloads\C# learning\OOP Polimorfismo\OOP Polimorfismo\obj\Debug\net8.0\refint\OOP Polimorfismo.dll
+C:\Users\semig\Downloads\C# learning\OOP Polimorfismo\OOP Polimorfismo\obj\Debug\net8.0\OOP Polimorfismo.pdb
+C:\Users\semig\Downloads\C# learning\OOP Polimorfismo\OOP Polimorfismo\obj\Debug\net8.0\OOP Polimorfismo.genruntimeconfig.cache
+C:\Users\semig\Downloads\C# learning\OOP Polimorfismo\OOP Polimorfismo\obj\Debug\net8.0\ref\OOP Polimorfismo.dll
